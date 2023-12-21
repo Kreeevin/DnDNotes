@@ -4,7 +4,9 @@
 ### Redemption Paladin
 
 My friend... Hearth... I miss you...
+
 I know we left with not much time, but I do wish we didn't leave so much behind...
+
 I will go back for her in due time.
 
 

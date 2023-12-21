@@ -1,4 +1,4 @@
-## Party Members
+# Party Members
 
 ### Evakyl (Phil)
 - 2'8" Kobold
@@ -24,18 +24,10 @@
     - The White Hollows
     - "Herbalism is more important to me"
 
-## NPCs
+# NPCs
 
-### Shopkeep in Farwater
-- Slightly Italian
-- Haggler
+## Farwater
 
-### Village Doctor - Agkar
-- Human Male
-- Tall, Gaunt, Frail
-- Potioneer
-- **Volwin - Humonculus**
-    - "Something I brewed up to help out"
 
 ### Poor Man's Poison
 - Tavern run by two brothers
@@ -52,26 +44,57 @@
     - Hobgoblin
 - He'll get there some day
 
+### Village Doctor - Agkar
+- Human Male
+- Tall, Gaunt, Frail
+- Potioneer
+- **Volwin - Humonculus**
+    - "Something I brewed up to help out"
+
 ### Ratin
 - Bard at the tavern
 - More than a little cocky
 
-## Scuff
+### Scuff
 - Captain of Aurum's Ship
 - Attacked by a mechanical bird
 - Construct threw the bird towards the ship
 
-### Avarell
-- Small trader
-- Buys and Sells ingredients of slightly magical properties
+### Avarell - Shopkeep
+- Slightly Italian
+- Haggler
+
+### Weapons Shop
+- Holds mostly worn weaponry
+- No munitions
+
+
+# Mallenhorn
+The land we are in. 
+
+## Major Locations
+
+### Farwater
+Our starting town
+
+Town on the west coast of Mallenhorn.
+Has a port that isn't very used at the moment.
+
+### Keltar's Caverns
+
+Seems to be the base of operations for the Black Order 
+
+Entrances:
+- Billigar's Cove
+    - North of Farwater
+    - On the coast
+
+# General Notes
 
 ## Frostbane 
 Neither poison nor disease, this affliction seems to be growing more and more common. 
 
 The affected feel extreme chills, which persist until death. Normal healing methods seem effective, but long-term results have not been seen yet.
-
-## Mallenhorn
-The land we are in. 
 
 ## Black Order
 An organization of constructs who are trying to take over towns. 
@@ -111,10 +134,3 @@ Their motivations are currently unknown.
                 - DC 12 Dex save
         - 20 ft Flying Speed
 
-
-### Millagar's Cove
-One of the ways into Keltar's Caverns
-
-## Keltar's Caverns
-
-Seems to be the base of operations for the Black Order  
