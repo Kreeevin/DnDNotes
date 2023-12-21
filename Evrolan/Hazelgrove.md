@@ -1,91 +1,11 @@
-Divination Dice: __, __
-Lucky: 0/3
-Money: 975 gp
-AC = 15 (14 with Mage Armor)
-HP: 35/39
-Hit Dice: 4/4 d6
-Spell Slots: 0/4 lvl 1 
-	     2/3 lvl 2
-	     2/3 lvl 3
-Rations: 4 rations	
-
-Cantrip:
- - Light - Purple, turns to a bright black light later
- - Firebolt - White flame lance, occasionally takes the form of a small flame in my hand
- - Message - Invisible
- 
- 1st Level: (4/4)
- - Identify - Light Blue glow on the object in question
- - Comprehend Languages - Audio waves appear; visual distortion
- - Sense Emotion - Eyes glow based on my current emotion, according to the rules of the spell 
- - Detect Magic - Eyes glow based on the color representing the school of magic
- - Guiding Hand - Ghostly transparent pale
- - Healing Elixer - Flourescent Green Thick Liquid
- - Magic Missile - Arcane Purple
- - Id Insinuation - Anime angry symbol faintly appears on their face
- - Mage Armor - Faint copper/orange glow in the shape of a full tuxedo
- 
- 2nd Level: (3/3)
- - Magic Mouth - Transparent purple mouth
- - Crown of Madness - Thorned Crown appears on the target's head
- - Augury - Float in the air and do the Dr. Strange thing
- - Locate Object - White sparkle path thats leads to the object in question
- 
- 3rd Level: (2/2)
- - ACME's Ancient Anvil - Faintly transparent steel anvil with bright and colorful branding. Disappears with a
-   cartoonish pop, in a little burst of confetti, after a minute. 
-						It has an outline like it's hand-drawn - 5d10 Bludgeoning - 60 ft
- - Fireball - Blinding white flame, Small mushroom cloud of black smoke on impact
- - Dispel Magic - A deafening air pressure wave that ripples inwards around the target spell's area of effect
-
- Once free per long rest:
-	 1st lvl - Tasha's Hideous Laughter - Target sees phantoms of me laughing at them
-	 2nd lvl - Misty Step - Teleport in puff of mist
-
-Ten Per Day: (10/10)
- - Magic Missile - As above, but can be controlled with slightly more precision
- - Ray of Enfeeblement - Thin black tendrils stretching out towards the target
-
-Schools of Magic Colors:
- - Necromancy - Gray
- - Divination - White
- - Enchantment - Green
- - Conjuration - Blue
- - Illusion - Purple
- - Transmutation - Cyan
- - Evocation - Red
- - Abjuration - Orange
-
-As a bit of background, Hazelgrove which was once, as I mentioned, a bustling hub of trade for the southwestern part of the kingdom.
-At some point a couple hundred years ago, there was some kind of event, the nature of which is unknown, which was either cataclysmic, 
-or scared the town's inhabitants very badly, or something along those lines - what actually happened is unknown.
-
-Anyway, from the perspective of the capital and other major cities, Hazelgrove just took itself off the map. 
-The town went from a thriving hub of trade to a town with no communication with the outside world, where people seldom visit and people seldom leave, 
-	and communication with the town's authorities or mercantile entities is nigh-impossible without making the trek yourself. 
-The fact that this happened so suddenly was pushed under the rug, so to speak, as the capital was worried about the prospect of invasion - even after that threat was disproven, 
-	all previous attempts to reinitiate contact or discover what actually happened have been fruitless. All that is known is that something changed.
-
-I have been sent on a mission to find out what actually happened to seemingly wipe this town off the face of the planet.
-Given that whatever did happen has a large historical significance for the kingdom, since it lost one of its major trade hubs.
-
-MLA Format - Magic Literature Association
-
-I am Doctor Hugo Chazon, Professor at Norsandoral Institute for the Arcane, Member of our King, Mandel VII's Inner Circle.
-You seem to think you have me backed into a corner. However, I have the support and access to materials that I need to stop you if need be.
-I hope that isn't necessary, as that feels like a huge missed opportunity to me. So I'd like to offer you a deal.
-
-Norsandoral
-Theron Riverblood - Headmaster of Norsandoral
-
-Hazelgrove:
+# Hazelgrove
 	Population: 35,000 inhabitants to 23,000
 		- Seasonal population 25k-26k
 	In stay per day:
 		- 8-10 sp near port; 2 gp near midtown
 	The only functional trade route into Hazelgrove is the river; all other paths are overgrown and decrepit
 
-_____ Tavern:
+Tavern:
 	Just a tavern, not an inn
 	Next to town square
 	
@@ -108,11 +28,11 @@ Expense Report:
 		2 gp/night - tavern
 		1 gp/night - inn (counting breakfast)
 
-Chazon's Hazelgrove Log:
+## Chazon's Hazelgrove Log
 	3546 EVR
 	Mid-Waning Spring
 	
-	Day 1:
+Day 1:
 	
 		I have just arrived in Hazelgrove to investigate the events of 200 years ago, under the guise of a mapping quest (why did I agree to this? cartographers are annoying)
 
@@ -124,7 +44,7 @@ Chazon's Hazelgrove Log:
 		At the bar I met the other two accomplises for this quest; A goblin and a human, both of unknown name. 
 		I had to pay for the goblin's drink, as he was preoccupied with his gold pieces being shiny; It's almsot as if he just completely did not understand financial transactions.
 
-	Day 2: 
+Day 2: 
 	
 		I spent the morning in a wealthy townsfolk's attic cleaning out an acidic ooze that somehow made its way up there. 
 		The other two nutjobs who accepted this "quest" seemed reasonably competent in combat, I may keep them around to fight my battles so I do not have to.
@@ -144,7 +64,7 @@ Chazon's Hazelgrove Log:
 		On the way home, we stopped at the notice board in the guards post. A couple minor quests were posted, but none that particularly interests me. 
 		Gronivs seems keep to locate someone's lost valuables up north, as well as some late-night window breaking in the lower class part of town.
 
-	Day 3:
+Day 3:
 	
 		I spent the morning exploring the more dilapidated sections of town. Buildings near the port have occured some water damage over time. 
 		The buildings have progressed from stone, to painted brick, to brick, to wood as I have explored. 
@@ -301,7 +221,7 @@ Chazon's Hazelgrove Log:
 
 		We retired to our inns for the night, determined that a nights rest would solve our problems.
 		
-	Day 4:
+Day 4:
 
 		We return to the run-down tavern and try to meet up with the quest-giver. To thank the bartender for fetching his month-long guest, Groniv tried to pay him with
 		a fucking *drift globe*. He has a blade that absorbs sunlight for fucks sake!!! I took it and paid the bartended 3 gp for his help. 
@@ -323,7 +243,7 @@ Chazon's Hazelgrove Log:
 		
 		I'm absurdly exhausted from the past few days, so it's off to sleep with me.
 		
-	Day 5: *Unfinished entry*
+Day 5: *Unfinished entry*
 		
 		I had a nice breakfast, got my omelet and french toast, with some peach and preserves on top. Finally Hazelgrove is feeling livable, but my companions will probably never
 		truly understand what life should be like. I'm gonna take a bit of this french toast with me to bring to them to share; 
@@ -456,8 +376,8 @@ Chazon's Hazelgrove Log:
 		Before retiring to my inn room, I went back to the estate to go get the remnants of the staff.
 		
 		
-	Day 6:
-	
+Day 6:
+
 		I hear the laugh of the woman again. I wake up in the morning well rested, but with a cold sweat.
 		Flashes of a nightmare that graced me with its presence the night before pass before my eyes. 
 		I've never been the best at remembering my dreams, but I'll jot what I do remember down here:
@@ -547,7 +467,7 @@ Chazon's Hazelgrove Log:
 				
 		Included with the physical verison of the letter was two samples of wolf hide, one corrupted one control, along with an wolf eye for good luck.
 				
-	Day 7: *Unfinished entry*
+Day 7: *Unfinished entry*
 	
 		I wound up staying up the whole night researching. I'm going to summarize the most relevant of my findings here:
 		
@@ -582,8 +502,8 @@ Chazon's Hazelgrove Log:
 		- got letter from Theodora
 			- She'll be in town in 3 days, if the town lasts that long
 		- planned with Gronivs and Santana; decide to go investigate the forest the next morning.
-		
-	Day 8: *Unfinished entry*
+	
+Day 8: *Unfinished entry*
 		
 		Today's the day. Before we head into the forest, I go and pick up my chair from the craftsman; it's very confortable and will be perfect for updating this log in the field.
 		
@@ -649,7 +569,7 @@ Chazon's Hazelgrove Log:
 		It seems the path we are on is going roughly west.
 		
 		
-	Day 10:
+Day 10:
 	
 		I wound up getting a full eight hour nap. Once again a dream hit my sleepy night. I'll once again document what I can remember here.
 		I find myself beneath the wall of a fortress, inky black stream staining the ground. To my right, a figure walks down set of stairs to the right, 
@@ -684,7 +604,7 @@ Chazon's Hazelgrove Log:
 		
 		Eventually we vanquished the rest of these ghouls, and I took a well deserved rest (despite it having previously been my shift). Gronivs kept watch this time.
 		
-	Day 11: *unfinished entry*
+Day 11: *unfinished entry*
 		
 		Dream:
 		- Clearing about 100ft in diameter
@@ -712,7 +632,7 @@ Chazon's Hazelgrove Log:
 		
 		We keep travelling well into the night, and into the morning. I'm going to mark the following events under the following day.
 		
-	Day 12:
+Day 12:
 	
 		Around 7 am, we reach an old abandoned fortress. I recognize it with a hit of deja vu. It's the fortress from my dreams. Remembering my dream from the other night, 
 		I glance at the sky. The clouds from every direction are slowly drifting inwards towards this fortress. We haven't much time.
@@ -774,7 +694,7 @@ Chazon's Hazelgrove Log:
 		
 		We start on our journey back to Hazelgrove. It'll be a days journey or so away, so we'll be resting over the night.
 		
-	Day 13:
+Day 13:
 	
 		On our way back, we wound up at a path. Since we didn't see this on the way to the fortress, I cast Guiding Hand again, and it points to the left, down the path,
 		despite us not having changed direction.
@@ -805,7 +725,7 @@ Chazon's Hazelgrove Log:
 		Theodora and I spend much of the day reading and theorizing as to the powers of these Night Hags...
 		We call in
 		
-	Day 14:
+Day 14:
 	
 		Gronibs Dagger identify:
 			"It's cloaked; It's almost as if I lack the ability to understand what went into the creation"
@@ -825,7 +745,7 @@ Chazon's Hazelgrove Log:
 		- maybe trading with an outside source
 			- what could be worth 
 	
-	Day 15:
+Day 15:
 		
 		I heard a knocking on my sleep last night; it seems the hag is still trying to get into my head, but has noticed the interference
 		
@@ -870,7 +790,7 @@ Chazon's Hazelgrove Log:
 		I taught Gronivs the basics of focusing mana to cast a spell. The kid has such little mana in his blood the attempt was almost futile, 
 			
 			
-	Day 16:
+Day 16:
 			
 		Guiding hand 
 		Guiding hand points east for a while; After half an hour or so the hand spins and settles on South-West.
@@ -924,7 +844,7 @@ Chazon's Hazelgrove Log:
 		
 		The bag had this white mist in it; 
 		
-	Day 17:
+Day 17:
 		
 		Leads:
 		- Lumberjack
@@ -992,7 +912,7 @@ Chazon's Hazelgrove Log:
 		If that was indeed what we experienced while following Rem in the woods, it seems likely that that could additionally have been impacting the ability of cargo to reach town
 		
 		
-	Day 18:
+Day 18:
 	
 		Messed around a bit on the boat (magic mouth = fun)
 		landed in <town-name>
@@ -1000,7 +920,7 @@ Chazon's Hazelgrove Log:
 		entered winery, had good wine, need to recommend to friends, only spent 1000gp, not a bad deal
 		tell friends to address to Fidgel Mez - really good wine
 		
-	Day 19:
+Day 19:
 	
 		evocation with a splash of conjuration
 		
@@ -1021,7 +941,7 @@ Chazon's Hazelgrove Log:
 			
 		A message like this from Mandy means the situation must be pretty dire. I'll leave first thing in the morning.
 		
-	Day 20:
+Day 20:
 	
 		We set out early in the morning, my focus shifted entirely to making it back to the capital for Mandy and Marianne
 		

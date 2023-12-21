@@ -24,9 +24,16 @@
     - The White Hollows
     - "Herbalism is more important to me"
 
-# NPCs
+# Mallenhorn
+The land we are in. 
 
-## Farwater
+## Major Locations
+
+### Farwater
+Our starting town
+
+Town on the west coast of Mallenhorn.
+Has a port that isn't very used at the moment.
 
 ### Poor Man's Poison
 - Tavern run by two brothers
@@ -37,6 +44,7 @@
     - Goliath
     - Heavily Tattood, two tattoo bands around his wrists
 - Quite hospitable
+- Seems to have contracted Frostbane
 
 ### Grom
 - Ogey's Brother
@@ -67,38 +75,52 @@
 - Holds mostly worn weaponry
 - No munitions
 
-## Misc NPCs / Rumours
+### Sylvan
+- Adventurer who came from White Hollows
+- Told us that all the leaves seem to have fallen
 
-### Mallenheim
-- Artificer
-- Old Man
-- Lives in the valley
+## Keltar's Caverns
 
-# Mallenhorn
-The land we are in. 
-
-## Major Locations
-
-### Farwater
-Our starting town
-
-Town on the west coast of Mallenhorn.
-Has a port that isn't very used at the moment.
-
-### Keltar's Caverns
-
-Seems to be the base of operations for the Black Order 
+Seems to be the base of operations for the Black Order? At the very least they were 
 
 Entrances:
 - Billigar's Cove
     - North of Farwater
     - On the coast
 
-### White Hollows
+Evakyl's Home
+
+## White Hollows
 Forest of pristine white leaves. 
 Leaves have a minor hallucinatory effect.
 
 Byron's Home
+
+- All the leaves have fallen
+- The mist remaining from the leaves give off the glow of illusion magic when examined under detect magic.
+
+- Started to snow
+- River floods
+- 
+- 4 Legged Constructs eating leaves
+    - Eating or Collecting?
+
+Mother Tree
+- Heart of the forest
+- White Tulips grow there
+
+### NPCs
+
+Chuck, Buck, and Tuck
+- Castorans - Beaverfolk
+- Set up a damn along the river.
+- They got mad at Byron for hibernating
+
+## Beggar's Hole
+
+Small town in a crater that can be fould by following the river out of the White Hollows
+
+Not the nicest town
 
 # General Notes
 
@@ -118,7 +140,7 @@ Their motivations are currently unknown.
 
 "Misty Coast West Coast Ship White Hollows Destroy"
 
-### Intelligent Members
+### NPCs
 - Melius - Hunchback Miner
     - Appearance
         - Thin Pointy Legs
@@ -128,6 +150,13 @@ Their motivations are currently unknown.
         - Straw Mustache
     - Not overly hostile
     - Just seems to be following orders
+- Ringald
+    - Human
+    - Taken control of most of the constructs
+    - Trying to stop the cold
+    - Is responsible for the kidnappings
+    - Taken them far north east 
+        - A place called the Black Keep
 
 ### Enemy Types
 - Mechanical Bird
@@ -145,3 +174,15 @@ Their motivations are currently unknown.
                 - DC 12 Dex save
         - 20 ft Flying Speed
 
+## Other NPCs / Rumours
+
+### Mallenheim
+- Artificer
+- Old Man
+- Lives in the valley
+
+### The Jade Ranger
+- Adventurer who Aurum looks up to
+- Left his treasures hidden for other adventurers to find
+- Left Mallenhorn 'on a sour note'
+- Mix of melancholy and betrayal
