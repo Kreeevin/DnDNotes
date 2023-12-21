@@ -121,7 +121,7 @@ Chuck, Buck, and Tuck
 Small town in a crater that can be fould by following the river out of the White Hollows
 
 Not the nicest town
-
+        
 # General Notes
 
 ## Frostbane 
