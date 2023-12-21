@@ -28,7 +28,6 @@
 
 ## Farwater
 
-
 ### Poor Man's Poison
 - Tavern run by two brothers
 - Party later tonight
@@ -68,6 +67,12 @@
 - Holds mostly worn weaponry
 - No munitions
 
+## Misc NPCs / Rumours
+
+### Mallenheim
+- Artificer
+- Old Man
+- Lives in the valley
 
 # Mallenhorn
 The land we are in. 
@@ -88,6 +93,12 @@ Entrances:
 - Billigar's Cove
     - North of Farwater
     - On the coast
+
+### White Hollows
+Forest of pristine white leaves. 
+Leaves have a minor hallucinatory effect.
+
+Byron's Home
 
 # General Notes
 
