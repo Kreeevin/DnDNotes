@@ -1,0 +1,1036 @@
+Divination Dice: 5, 8
+Lucky: 3/3
+Money: 975 gp
+AC = 15 (14 with Mage Armor)
+HP: 35/39
+Hit Dice: 4/4 d6
+Spell Slots: 4/4 lvl 1 
+	     3/3 lvl 2
+	     2/3 lvl 3	
+		 1/1 lvl 4
+Rations: 4 rations	
+
+Cantrip:
+ - Light - Purple, turns to a bright black light later
+ - Firebolt - White flame lance, occasionally takes the form of a small flame in my hand
+ - Message - Invisible
+ 
+ 1st Level: (4/4)
+ - Identify - Light Blue glow on the object in question
+ - Comprehend Languages - Audio waves appear; visual distortion
+ - Sense Emotion - Eyes glow based on my current emotion, according to the rules of the spell 
+ - Detect Magic - Eyes glow based on the color representing the school of magic
+ - Guiding Hand - Ghostly transparent pale
+ - Healing Elixer - Flourescent Green Thick Liquid
+ - Magic Missile - Arcane Purple
+ - Id Insinuation - Anime angry symbol faintly appears on their face
+ - Mage Armor - Faint copper/orange glow in the shape of a full tuxedo
+ 
+ 2nd Level: (3/3)
+ - Magic Mouth - Transparent purple mouth
+ - Crown of Madness - Thorned Crown appears on the target's head
+ - Augury - Float in the air and do the Dr. Strange thing
+ - Locate Object - White sparkle path thats leads to the object in question
+ 
+ 3rd Level: (2/2)
+ - ACME's Ancient Anvil - Faintly transparent steel anvil with bright and colorful branding. Disappears with a
+   cartoonish pop, in a little burst of confetti, after a minute. 
+						It has an outline like it's hand-drawn - 5d10 Bludgeoning - 60 ft
+ - Fireball - Blinding white flame, Small mushroom cloud of black smoke on impact
+ - Dispel Magic - A deafening air pressure wave that ripples inwards around the target spell's area of effect
+
+ Once free per long rest:
+	 1st lvl - Tasha's Hideous Laughter - Target sees phantoms of me laughing at them
+	 2nd lvl - Misty Step - Teleport in puff of mist
+
+Ten Per Day: (9/10)
+ - Magic Missile - As above, but can be controlled with slightly more precision
+ - Ray of Enfeeblement - Thin black tendrils stretching out towards the target
+
+Schools of Magic Colors:
+ - Necromancy - Gray
+ - Divination - White
+ - Enchantment - Green
+ - Conjuration - Blue
+ - Illusion - Purple
+ - Transmutation - Cyan
+ - Evocation - Red
+ - Abjuration - Orange
+
+As a bit of background, Hazelgrove which was once, as I mentioned, a bustling hub of trade for the southwestern part of the kingdom.
+At some point a couple hundred years ago, there was some kind of event, the nature of which is unknown, which was either cataclysmic, 
+or scared the town's inhabitants very badly, or something along those lines - what actually happened is unknown.
+
+Anyway, from the perspective of the capital and other major cities, Hazelgrove just took itself off the map. 
+The town went from a thriving hub of trade to a town with no communication with the outside world, where people seldom visit and people seldom leave, 
+	and communication with the town's authorities or mercantile entities is nigh-impossible without making the trek yourself. 
+The fact that this happened so suddenly was pushed under the rug, so to speak, as the capital was worried about the prospect of invasion - even after that threat was disproven, 
+	all previous attempts to reinitiate contact or discover what actually happened have been fruitless. All that is known is that something changed.
+
+I have been sent on a mission to find out what actually happened to seemingly wipe this town off the face of the planet.
+Given that whatever did happen has a large historical significance for the kingdom, since it lost one of its major trade hubs.
+
+MLA Format - Magic Literature Association
+
+I am Doctor Hugo Chazon, Professor at Norsandoral Institute for the Arcane, Member of our King, Mandel VII's Inner Circle.
+You seem to think you have me backed into a corner. However, I have the support and access to materials that I need to stop you if need be.
+I hope that isn't necessary, as that feels like a huge missed opportunity to me. So I'd like to offer you a deal.
+
+Norsandoral
+Theron Riverblood - Headmaster of Norsandoral
+
+Hazelgrove:
+	Population: 35,000 inhabitants to 23,000
+		- Seasonal population 25k-26k
+	In stay per day:
+		- 8-10 sp near port; 2 gp near midtown
+	The only functional trade route into Hazelgrove is the river; all other paths are overgrown and decrepit
+
+_____ Tavern:
+	Just a tavern, not an inn
+	Next to town square
+	
+The Crusty Maid:
+	Cheap inn where Santana and Gronivs stay
+	
+The Pleasant Sapphire:
+	Much nicer inn (+ restaurant)
+
+Quest log:
+	"Water Leak" - Acidic ooze wound up in someone's attic
+		Reward: 20 gp
+	"Lost Shinies" - Investigating the theft of some personal valuables
+		Reward: 7 gp
+	"Shattered Glass" - Investigating the mysterious broken windows downtown
+		Reward: ?? gp
+
+Expense Report:
+	Nightly costs x 2 nights: 6 gp
+		2 gp/night - tavern
+		1 gp/night - inn (counting breakfast)
+
+Chazon's Hazelgrove Log:
+	3546 EVR
+	Mid-Waning Spring
+	
+	Day 1:
+	
+		I have just arrived in Hazelgrove to investigate the events of 200 years ago, under the guise of a mapping quest (why did I agree to this? cartographers are annoying)
+
+		The economy here is actually performing way better than anticipated. I'm currently in a wealthy housing district at a tavern. 
+		I want to get a look inside one of these houses to discover what kind of luxuries exist in this town. There's a quest posted that may let me investigate one closer. 
+
+		For now though, I need a drink.
+
+		At the bar I met the other two accomplises for this quest; A goblin and a human, both of unknown name. 
+		I had to pay for the goblin's drink, as he was preoccupied with his gold pieces being shiny; It's almsot as if he just completely did not understand financial transactions.
+
+	Day 2: 
+	
+		I spent the morning in a wealthy townsfolk's attic cleaning out an acidic ooze that somehow made its way up there. 
+		The other two nutjobs who accepted this "quest" seemed reasonably competent in combat, I may keep them around to fight my battles so I do not have to.
+		However, I am weary of Nutrust the goblin, as he seems keen to steal if the object is question is "shiny" enough. Mary appears to enjoy conversing with her imagination.
+		
+		The homes of the wealthy in this town seem to be quite ornate, with oak doors, hardwood panel walls, and tile floors in areas. 
+		Sofas made of animal skin and glass centerpiece tables decorate their living areas. 
+		
+		This is more than what I expected from a town who's economy has been stunted for two centuries. At the inn, I got a "Local Delicacy", which was a roasted whitefish
+		The region by the port is a bit lower in class, but still decently well maintained. Okay so it seems that the goblin misled me a little, his name is not Nutrust, but Gronivs.
+		Regardless, the little man has grown on me, simple as he may be. He runs on his own consistent logic in which he finds himself quite profound. 
+		He is unlikely to hold a secondary cause for which to fight, and for that reason alone, I shall keep him on my side.
+
+		We returned to the house from earlier to inquire as to how the ooze arrived in the attic. 
+		Jip, the homeowner, offered me some stories of the land to be told over a drink or two for the following evening. As always, I will be reporting my findings here. 
+
+		On the way home, we stopped at the notice board in the guards post. A couple minor quests were posted, but none that particularly interests me. 
+		Gronivs seems keep to locate someone's lost valuables up north, as well as some late-night window breaking in the lower class part of town.
+
+	Day 3:
+	
+		I spent the morning exploring the more dilapidated sections of town. Buildings near the port have occured some water damage over time. 
+		The buildings have progressed from stone, to painted brick, to brick, to wood as I have explored. 
+
+		I came upon an abandoned port, algae showing the volume the river has lost to time. 
+		This port must have once housed dozens of boats, and the bridges are equipped for mechanical actuation to allow for taller vessels to pass through. 
+		A few warehouses show their relative unuse compared to what used to have been. 
+
+		Even with this region of Hazelgrove being lower class, people do not seem to be as unfortunate economically as I would have expected. 
+		As I once again approached the main square, houses noticibly get bigger and the streets seem more populated, although that may be an artifact of when I was exploring.
+		I did witness a wackjob cutting their hair over the river, poluting it with their locks. But that was from the wealthier side of the river, so I'm not sure what to think.
+	
+		Potential theories for how this town is surviving:
+			Other trading partners that we can't tell from outside the town?
+				Underground? In the sky? Some sort of magic allowing for economic prosperity? Association with some cult maybe?
+		
+		Mary has once again confirmed that she is insane, rambling about her great ancestor, Cecilia, who died via drowning in pussy. 
+		The thighs were too strong, the champagne too much, and the corset was too tight. Correction: Marge was the one who died in pussy, Cecilia died to a raw egg.
+		A lowly lot it seems.
+
+		I cast Identify on Gronivs' Dagger:
+			The hilt appears to be of solid gold, but somehome contains strength beyond it's material properties.
+			The blade is a chisled ruby gemstone, sharpened well to a point.
+			The dagger was made from a spell, one I could not recognize or even percieve. 
+				This is an ancient and odd magic, the likes of which have not been seen in all of recorded history
+			Key bond - takes energy from every soul it takes; gains strength the more lives it takes. It glows when it injests a soul.
+				- This dagger currently contains two souls.
+			There may be a way to release the souls from the dagger.
+
+		Following the identification of this dagger, the necessity of keeping Groniv around had increased dramatically. 
+		I shall do what is necessary to learn more about where he came from and where he acquired this weapon.
+
+		I'm going into the market to try and find out who the oldest family in this town is; and to find out who runs the town. 
+		I spoke to the baker, a lovely young woman, who directed me towards the smith off of main st, Elric.
+
+		On my way there, I passed a couple different shops of interest; A general store, a bowyer, and a restaurant (gonna have to check that out later). 
+		The smith is a half-dwarven man; moved here from the mountains shortly after the incident. "Town was quieter than I expected; was expecting a thriving port town"
+		He doesn't know anything about it; he likes the quiet; Weaponsmith may know more, I can check him out tomorrow.
+		
+		I met up with Jip for what Mary keeps insisting is a date. I starting drinking and maybe I rambled and said too much. I may have spilt the beans a little, but he seemed very
+		interested in my story. Promising to help, he said he's gonna try to find some of his old family records to see if there are any leads in there. 
+		I had him inscribe his fingerprint in my tome so I can message cantrip him at any time. 
+
+		During our drinking session, I inquired about the leadership of this town. Surprisingly, this town is not run by a lord or other form of monarch. 
+		Instead, it seems they reached back into the playbook of old and rediscovered democracy, 
+		with a representative of each primary industry making up the council that makes decisions on behalf of the town.
+		Well I suppose it's a little closer to an oligarchy as the council is composed of wealthy merchants, but it's certainly a step in the right direction. 
+		I may try to spectate the next town hall meeting, but I will need a cover story first.
+
+		Jip seemed very interested in my story; He's gonna try to find some of his family records from a generation or two back to see if he can find anything. 
+		I had him inscribe his fingerprint in my tome, 
+		No Mayor; Council made up of wealthy merchants; The other smith, the fletcher, one of the hunters; Drop by town hall to find out when the next meeting is
+
+		I actually had a good change to learn more about my new mysterious "friend". 
+		It turns out *Santana* is "Mary"s real name and they are a Kalashtar with some *major* identity issues. Santana is actually from Merica, a land to the south of here.
+		Rather than a Quori, their "spirit" companion is this cloud elemental named Marc. Kind of a stupid name, but hey it's a unique name for sure.
+		An interesting thing is that before they found each other, Marc was a college dropout. 
+		A professor named Bradtozzi is the one that failed Marc and caused him to lose sight of his goals.
+
+		Upon meeting up with Groniv again, I noticed that his dagger looks... almost shinier than it did the last time I saw it. Did making it shinier use up a charge or did he just
+		kill more people? I asked him if I could inspect his blade again, and once more I cast Identify:
+			- Gem is still in perfect shape; literally spotless
+			- Four charges
+				- Number of charges not accurate (out of game note)
+		So it seems groniv's dagger is capable of absorbing and focusing light into a single point, becoming a dangerous beam of radiant light that shoots out the tip. The number of
+		charges has increase, which means two more souls have fallen to this... child? Is Groniv a child? I guess it doesn't really matter, goblins reach maturity much earlier than 
+		humans so from my perspective he may be a child despite being considered an adult from his perspective. I had to inquire about the extra charges, 
+		and I'm not sure how terrified I should be about the nonchalant response he gave. Groniv killed an orc and a "scaly umi" (later determined to be a kobold). 
+		No clue what that means; could be a lizardfolk or a dragonborn? Either way that explains the new luster. 
+		I would try to interfere to stop others from falling victim to this unaware monster but losing the relation with Groniv is not a loss I am wiling to take right now.
+
+		Even after this day we've had; the others still insist on starting the other quest. We ventured to this run-down tavern; even the home-owner wants no part of this.
+		He seems terrified though, so we ventured across the river to try and discover what is squatting in this poor dude's house.
+
+		This region of town is definitely dilapidated; the former wealth of this area is evident. It almost feels suspended in time, no longer standing up to it's former glory,
+		but still with a shadow of what once was. The cobblestone road is more than wide enough for horsedrawn carraiges and travelers on foot to venture side by side with
+		room to spare.
+		His house is this cute manor; doesn't stand up against an average house in the capital, but it's probably quite expensive, as it is the nicest I've seen in Hazelgrove.
+
+		It's probably an acre or two large, a couple stories high, some nice gardenwork; all around pretty nice. 
+		Santana has no clue what she's talking about, she does not know what scale of wealth is. I should take her to the capital; I think she'd find it interesting.
+		It seems Groniv is struggling to comprehend the scale of this building; It's not even that large!
+
+		In the house, Groniv reacted to a picture by telling a story: Groniv's town was owned by a family of miners 100 years ago; They showed the goblins how to mine, 
+		took their cut, and left. They continued to be revered as gods, as they showed the goblins 'the way'. He refered to them as the "god umis". It's an interesting folk tale,
+		but there's not necessarily evidence that this house belongs to those miners.
+
+		A bunch of these paintings are hung on the walls around the house. One of them showed a man holding a purple/red gem. Another one showed a man with eyes of the same color.
+		These paintings have been hanging on the wall for ages, as when Groniv removed the painting the bricks behind were not as aged.
+		I pick a book off of the shelf: the tome was written in elvish, poorly maintained and aged in such a way where the pages were starting to crumble upon being turned. 
+		The topic itself was not of particular note, "Methods of Mass Producing Wheat", except that this appears to be the home of a mining family,  
+
+		Santana started panicking for a moment, and a shadow jumps at her. My hypothesis: there's probably a wraith in the house. 
+		I'm going to stop taking notes here and actually deal with this.
+
+		This house is peculiar. We ventured down a staircase that was a league or two too long and too deep. The staircase curved and branched out a little,
+		but we just continued downwards. Eventually it opened it up to a full room, one much too smooth to be hand carved, as the stairs were. 
+		Probably a use of stone shape? but this room is too big. An artifact maybe? Either way whoever molded this room is a talented spellcaster.
+		We're definitely past the property line now, this is not legal.
+
+		Santana discovered two bulbed buttons on the wall. Pressing them at the same time caused the bulbed stone buttons to mold flush into the wall. After Groniv
+		placed some "shinies" on the altar that was centered in the room, it opened up and revealed a compartment holding a glowing purple gem; just like the ones in
+		the paintings. Clearly a powerful article, I asked Groniv if I could hold it in order to cast identify. He declined, and held the gem out at arms length for
+		me to inspect it closer. I can feel it's energy.
+
+		A dimly glowing purple spectre appeared out of the altar when Groniv attempted to place the gem on the floor.
+		During the ensuing scramble I manage to grab the gem and cast Identify. During my casting a wraith started chasing me through the room.
+		Here's what I learned
+			- 112% sure that this is the same gem as in all of the paintings
+			- Embued with dark magic
+			- Part of a wraith is contained in the gem
+		After I finished casting the spell, I knew what I had to do. We weren't in the best condition to fight a wraith, and I still stagger when walking following
+		the spectre's grasp for my chest. I threw the gem at the ground and it shattered, causing the wraith to dissipate. 
+		Santana speking to Marc confirmed my suspicion, the shadows seemly are gone.
+
+		We go up a level to the room Groniv referred to as "the body room". It turned out to be crypt, with graves labelled in Elvish. 
+		Groniv jumped right in and started desecrated corpses, but some of the corpses were human. Some of the names are Akheir, Bo-Tir, Jomzourlek, and Zasdar
+		At the end of the crypt, one grave stood out. The name Arbelladon engraved, the body inside was elvish, and the skeleton probably 1200 years old. 
+		Santana took the glorified silvered greatsword, very grateful that we killed the wraith first so we didn't have to fight undead.
+
+		Groniv is mad at me for breaking the gem. Like, unreasonably mad. If "Wraith killed wraith because no shiny", then why 'Groniv no kill Groniv because no shiny'?!?
+		It took over an hour but eventually he forgave me. He is insisting that the quest-giver knew about the wraith and betrayed us, 
+		and thus we should try to kill him. I'm hesitant to jump to stabbing, but he's been insisting. I'll handle this situation later.
+		
+		There's a room that is where the staircase should have been; visible through a window out front but not from the hallway, as it would have been accessed through
+		the door that lead down to the crypt. Entering the room through the window, the door functioned perfectly from inside the room, leading out to the hallway.
+		Closing the door from inside the room and then opening it from the hallway once again revealed the stairs down. If the door is opened from both ends,
+		it looks normal from inside the room, and attempting to descend the stairway will almost teleport you back into the other room as if you never tried to descend.
+		It's seeming based on Schrodinger's Theory of Superposition, demonstrated by his experimentation on his own familiar. A very interesting enchantment that
+		Professor Matticoli would love to study for his "ECMT 303: Theory of Casting" class.	
+
+		Door works maybe by intention? sometimes opens to one thing sometimes open to another. Sometimes based on the phase of the moon
+		
+		I go upstairs looking for the library. After the crime against literature I saw earlier, I must know if the rest of this home is in an equally sad state.
+		Under the floor of the library, there are extra reinforcements, either in anticipation of how many books they would have or because the room was originally
+		made for storing something else. It's a good size library, a bit smaller than my home one, about 40 feet deep and 50 foot wide, with bookshelfs upon bookshelves
+		stretching from floor to ceiling.
+		
+		There's a tome open on a lecturn, which is open to page 43. It's a comprehensive list of all of the books in the library. Most of these are titles I have read.
+		 - "The Nature of the Arcane", which is an older edition of a textbook used in ARC 101
+		 - "On Familiars and Their Uses", a
+		There are others that I am... less interested in, such as ones covering agricultural topics.
+		 - "On Underground Carrot Farming"
+		The tome switches handwriting partway. These focus greatly on arcana and in particular, necromancy. 
+		This is intriguing considering the wraith we found downstairs
+		 - "The Nature of the Arcane, 1st Edition"
+		 - "The Physiology of the Undead"
+		The Tome of Contents appears roughly unfinished, as the next 100 pages are empty. I started re-skimming the entire tome for history books. Eventually I found
+		"History Of Hazelgrove". Using the tome I summoned the history book, along with a couple books I won't name here for the sake of all the good boys and girls.
+
+		Upon reuniting with Santana and Groniv, they pointed out something I was too preoccupied to think about: we have not really completed the objective of the quest
+		In fact, we've killed the family guardian, broken paintings, robbed corpses, and stole books. This did not solve the secret of the broken windows, which Santana
+		informed me seem to have been broken from the outside in. I'm not sure what to tell this man; I'm scared as to what Groniv will do.
+
+		We retired to our inns for the night, determined that a nights rest would solve our problems.
+		
+	Day 4:
+
+		We return to the run-down tavern and try to meet up with the quest-giver. To thank the bartender for fetching his month-long guest, Groniv tried to pay him with
+		a fucking *drift globe*. He has a blade that absorbs sunlight for fucks sake!!! I took it and paid the bartended 3 gp for his help. 
+		
+		Moutains are cursed, spread to woods South-west of here "darkness/sickness from the mountains" trees from the south of town have become part of the "bleak woods"
+		"Trees do weird things; they move" not treants; much more sinister. 
+		
+		Eventually we found the quest-giver. He introduced himself as Rem Loraqen. We started questioning why he didn't tell us about the house being cursed, and he attacked us.
+		We subdued him pretty quickly; an arm or two may have been severed in the process but we did heal him back up afterwards. He seemed very confused as to why he attacked us,
+		And didn't seem to understand why he didn't tell us about the house being cursed
+		I asked Rem about the unfinished history book; something definitely happened here 200-300 years ago; almost as if the history has been replaced
+
+		I threatened to smite Santana again for mispronouncing my name and calling me "Dr. Juice". It was quite rude, and I don't really understand the joke. 
+		I still don't know what the fuck she is on most of the time. I'm tempted to ask the king's contact for some crystal powder for me to trick them into snorting.
+
+		The overall understanding of time outside of the capital seems quite lacking. The only group with any semblance of relative time passing are Groniv's tribe,
+		who measure times in the number of sunsets since their "god umi"s left them. He specified 87640 sunsets, which places his god umis as having left them in 
+		3303 EVR, in the Waning Autumn, assuming our regions have similar seasonal patterns.
+		
+		I'm absurdly exhausted from the past few days, so it's off to sleep with me.
+		
+	Day 5: *Unfinished entry*
+		
+		I had a nice breakfast, got my omelet and french toast, with some peach and preserves on top. Finally Hazelgrove is feeling livable, but my companions will probably never
+		truly understand what life should be like. I'm gonna take a bit of this french toast with me to bring to them to share; 
+		I have a feeling they'd appreciate actual food for once.
+		
+		I found them down by the riverbed, Gronivs pacing deep in thought and Santana collapsed against a tree. That bitch called me grandpa when I fed her, I can't believe it!
+		I'm 
+		
+		The ground began to shake slightly when Santana stands up. I have her 
+		
+		Santana said there was something in her room last night; She woke up terrified in the middle of the night. 
+		I've gone back to their inn to investigate a little, and I cast detect magic. Groniv's dagger shown gray and cyan. Santana's sword faintly glowed green.
+		Holy shit the room is blue. This may just mean that 
+		
+		Gronivs brought up that the coins are very old. The got me thinking about how currency was shared during the period of isolation. Looking at the collection of currency,
+		very few coins stood out. They was one with an elven king on them, which was incredibly odd. There hasn't been an elf king of Evrolan for 1400
+
+		coins from grave, 700-900 years; very well preserved
+		coins with the elven king are 300-400 years older than that - proves groniv's theory correct. These coins are almost certainly from the dynasty prior to Fairenon. It was 
+		one of Santana's gold colds, so I paid her 2 of the non-special coins and kept the relic. 
+		
+		Before my detect magic fades, I realize there's one theory I want to cross off. I run to the center of town and look down the well. Even with the small canopy over the well,
+		the sunlight was visible down the entire depth, shimmering on the water below and revealing the textured stones lining the floor below. Not quite sure how that is possible,
+		I need to investigate this further. Note: this was at high noon
+		
+		I went down to the river to collect myself and my thoughts.
+		
+		As I'm sitting there, I hear the voice I find myself dreading more and more by the day; "Hey grandpa! you wanna come speak to the lumberjack?" Fuckin hell mate, I'm only 45!
+		
+		Shop on main st that would sell a folding chair for me to bring with me adventuring
+		
+		The trees themselves were trying to take his axe from his hand; he became afraid and changed where he sources his wood
+		Go south to see more tree move
+		
+		Santana was very suprised to hear that I am married... I miss my dear Marianne... And my children... These fools are driving me mad
+		
+		I got a chance to read Groniv's notebook; I'm actually incredibly impressed with the quality of the documentation here, he has kept maticulous detail of every shiny he owns
+		A goblin after my own heart. I think my son may actually enjoy Groniv's company as I have been.
+		
+		Groniv's notebook:
+			Gronivs sees humanoid figure (drawing of a woman) stealing ruby; he stalks her, and in following her found a large monster sleeping over a large horde of shinies.
+			He stole the dagger from the center of the horde, and that is where the entry ends.
+			
+		Santana decided to try to learn magic. In her awkward meandering and shuffling she started speaking abyssal out of nowhere. What the fuck. Gronivs and I were playing this
+		card game he knows. I won, of course. Santana desperately needed help, so I gave her a little tutoring. After an exhausting 30 minutes of getting her to meditate, she managed
+		to cast thaumaturgy. Mazel Tov! God that took forever
+		
+		We eventually made our way over to Rem's estate to re-investigate the mansion. As we were approaching the mansion, we've noticed a new addition to the cursed forest. The
+		tree out front has been made into a twisted source of ply. That is to say, in the day and a half since we've been here, this tree has gone from the verge of blooming to
+		being a wrangled mess quite befitting of the cursed that plagued it.
+		There's a new table in this room, very stange. The lamp has been burning for a couple hours, and it seems someone has been in here recently. It's probably Rem, but he's
+		supposedly still living in the inn. 
+		
+		Books in the library - Rem has been having trouble summoning books with no titles. These books have full pages of content, but the covers themselves appear to be newly
+		attached. This first one is a biography of a military man, but with a name untold. Skimming through his life, I stopped on a battle that occured some time ago.
+		The lack of a reference to a name is bizzare, and caught me off guard.
+		
+		Leader of a small force; the subject is some commander. He led his group against a similar size force, yet through sneak attacks and other methods they came out victorious,
+		but with very few losses on one side. Despite the latter half of the book focusing on his personal life, in which he traveled often, there were few references to proper nouns
+		or any identifying characteristics. 
+		
+		I took another inquizative glance into the archive. On the very last documented page, a title caught my eye: "Assembled Inquiries on the Abyssal Lexicon". 
+		Written in Draconic, it details elements of the Abyssal Language, referencing common speech patterns and turns of phrase. 
+		
+		I wrote a title on the side of the book, labeling it "A Soldier's Biography". I tried adding that to the archive and it did not work. In confusion, I cast Identify.
+		- The tome calls itself the archive. The book appears to have a slight enchantment on it, mixed with a conjuration spell. By writing with magical ink, the archive binds
+		itself to the book in question, which then allows for the resummoning of the book using the archive as the focus. You can tell the book to return to the shelf.
+		Using magical ink this time, writing the new title yielded a reaction but not a proper connection. The book did not complain but it did not work.
+		
+		I wanted to try with a book that has an official title and I know is not already bound. "Fairenon: Past, Present, and Politics, 11th Edition". It was successful and upon
+		calling return, the book flew off onto a space on the shelf. 
+		"Groniv's Notebook" Using magical ink seemed to do the trick, so I'm going to try again on the Soldier's Biography. It worked 
+		"*NOT* the Lusty Argonian Maid" I rewrote the name on The Lusty Argonian Maid (volume one) to see if renaming the book with magical ink would rebind it. It was effective, and
+		the book could not be summoned by the previous title.
+		
+		Gronivs asked me if the archive had any books on daggers or on dragons. He found "Daggers, an Authority Index", which was on page 26. He also found 
+		"Lectures on the Beasts of the Skies: Dragons"
+		Reading through the Lectures on Dragons, Groniv found an entry on Ruby dragons. They seem to match up with what we know about the shiny monster, primarily that they are
+		territorial, collect treasures and weapons, and can transform into a human, which would match up with the woman from Groniv's story.
+		
+		Santana keeps subconciously switching into Abyssal. How does she even know that language anyways? It's making me anxious.
+		
+		We brought Rem to the stairway down to the crypt. He said that all that lies down there is a storage room, but we brought him around through the broken window to show him
+		the enchanted doorway, and then we brought him down to the graves. He recognized the name of the far tomb, the one labeled Arbelladon. Rem seemed very disturbed by the 
+		reference to the name. We eventually went down to the bottom chamber, and upon casting Detect Magic, I notice a fog that stinks of necromancy hovering near the back of the 
+		room. Rem sliced his palm and placed it on the altar. It took us a little bit to figure out hwo to re-seal the altar, but afterwards, black corruption starting flowing up 
+		Rem's arm. To save him, we felt it necessary to amputate, after which I healed him with Healing Elixer, leaving me with no more spell slots for the day.
+		
+		After amputating Rem's arm, it fell onto the altar. When this happened, the far wall where I sensed the aura gave way, revealing a wall-mounted claw, grasping what is 
+		probably a staff of power. It's necrotic energy is immense, and when trying to snap it, my arm siezed up and I collapsed to the ground. Groniv sliced the amythyst off of
+		the top of the staff, and after I confirmed that the gem itself was non-magical, I gave it back to him. However, when Rem approached the staff the grip loosened, allowing
+		
+		
+		On the way up, we heard some shuffling in the crypt. We run up the stairs, determined to snap the staff before handling whoever is hiding in there.
+		
+		Arbelladon was Rem's ancestor. Unlike Rem, Arbelladon was known to be a wizard, one who made a pact with some being (maybe multiclass Warlock). Rem didn't know when exactly
+		he lived (the corpse was 1200 years old, the coins 1400). When Rem picked up the staff, he saw visions of what has been done. "I saw children ripped to shreds, 
+		pulled apart from the inside. I saw men fall dead, and their corpses rise as twisted husks. I saw an old woman holding a skull, laughing"
+		
+		We go outside to discuss this. Right before Rem approaches the staff to do the deed, I see a flash of what is to come. An attempted shield of faith flickers and fades as the 
+		staff gets snapped, followed by a gray explosion of energy. I feel like I've seen this many times before, knowing that this is one of many possible outcomes of the next few
+		seconds. I quickly message Santana. After telling her ot tkae a deep breath, I instruct her on how to cast Shield of Faith. Hopefully my few moment of instruction do good.
+		I brace myself for impact.
+		
+		In an instant, Rem is sheltered by an copper/orange shell as the staff hits his knee. The resulting shockwave launched us probably 20 feet, but I was ready and stuck the 
+		landing. As the dust settles, we see Rem collapse, and we hobble over. I check his vitals, and I feel a very faint heartbeat. 
+		
+		We hear the laugh of an old woman. It's a hideous laugh, one that unsettles me greatly and turns my stomach. A faint sense of dread washes over me. What have we done...
+		What did we just release on the world... 
+		
+		We head back inside, and open the door to the stairwell. I shot a firebolt down the straight stairwell, and it hits a target partway down. Groniv slinks down about 15 feet
+		in front of me, using my light as a way of keeping himself stealthed. Once he gets closer, he jumps up and decapitates the skeleton. His dagger glows in response to killing
+		an undead; very interesting.
+		
+		Marc sends a message to Santana: "Check the door"; we run up the stairs. I had the realization that if we're at the entrance to the stairwell, the enchantment on the door
+		would allow someone in the hidden room to see and attack us. Gronivs previously had placed coins in the door by the hinges to prevent someone from closing the door to lock 
+		us inside. Now, he slammed the door shut to 
+		
+		Marc tried identifying all sources of magic within the house. Two books, and a key; nothing else.
+		
+		Thinking back to Professor Matticoli's class, superposed doors are a little finicky; as such, it's not entirely impossible for Rem to have been to a basement that is no 
+		longer bound. This explains why there would be doors and passages that Rem had never seen.
+		
+		Groniv is still concerned that there is something, or someone, in the house. In order to see if the house has been traveled in the time between us being there, Gronivs rigs
+		the doors with coins so that they cannot be closed.
+		
+		We reconvened with Rem after we left to discuss what comes next. We've released something on this world and I'm terrified of what is to come. I may have to send summons for
+		Professor Smith, her expertise may be needed.
+		
+		Before retiring to my inn room, I went back to the estate to go get the remnants of the staff.
+		
+		
+	Day 6:
+	
+		I hear the laugh of the woman again. I wake up in the morning well rested, but with a cold sweat.
+		Flashes of a nightmare that graced me with its presence the night before pass before my eyes. 
+		I've never been the best at remembering my dreams, but I'll jot what I do remember down here:
+			- ruins of a fortress clouds move over a withered shriveled tree
+			- hooded figure, necromancer, undead clawing its way out of the ground
+			- dryad weeps at the base of a tree
+			- strangely beautiful woman; eyes flash purple and I am thrown back
+		Quickly jumping out of bed, once again made uneasy as I am reminded of the consequences of my own inadequacies, I remember the shattered ashen staff hiding in the corners.
+		Piecing the artifact back together, I cast Identify on the broken staff. 
+		I felt absolutely no thrumming or magical resonance, which is strange; rarely does an artifact lose all of its power upon use
+		Honestly I didn't learn much from that, it's just an empty vessel which once held a great power; nothing I didn't know.
+			
+		The sky is drab and overcast today; the air itself feels a little bit off. It's an unsettling feeling that I cannot shake, a persisting shiver scratching down to my bones.
+		
+		*The whole next page is taken up of these notes, written hastily and in chicken-scratch. It changes languages fluidly between common, elvish, dwarvish, and draconic*
+		
+		i don't know wHat i need to know. i need to know morE. my current knowLedge isn't enough. i need to know more. i need to know. i need to know. i need to know. i'm Pathetic.
+		i need to know. i need to know. i need to know. i need to know. i desperately need to know. i need to know. i need to know. i need to know. i need More. i neEd to know
+		
+		Eventually I drag myself to the restaurant to get something to eat. I feel little motivation for self-care, but I know I must prepare myself for what needs to be done.
+		The fools locate me during breakfast, convincing me to return once more to the house to investigate. 
+		I feel useless in this endeavor; Necromancy is so far out of my expertise.
+		Heading straight to the library, I summon basically every book in the archive that I can tell is about Necromancy. 
+		I take them out, sorting by level of presumed background knowledge and subtopic.
+		
+		
+		I think I must have spent hours in here already. Half the library is out, organized into neat piles. I can't seem to organize my thoughts so its the least I can do for myself
+		I really don't want to, but maybe I should reach out to her... It's been a long time though, I'd rather not if I can avoid it.
+		
+		While I was working, Gronivs found another title-less book. 
+		This time though, the title page has a name. "The Keyhole"; It's convinient given that Groniv is trying to find a keyhole. 
+		It's almost as if the library itself knows, and is either trying to help him or trying to taunt him. Or both? In the novel, the main character ventures around a mansion
+		searching for something, presumably a keyhole. The library must be trying to tell us something. I'm gonna jot down the places the character looked just in case:
+		- Chapel - Library - Dining Room - Kitchen - Living Room - Bedroom - Basement - Garden - Sitting Room
+		The final passage of the book ends with the character staring into the fireplace. Gronivs goes crazy tearing bricks out of the various fireplaces around the house.
+		His blade is actually terrifying, it just cuts through brick and stone like butter, incurring literally no damage in the process. I am so incredibly curious as to its limits.
+		I held a firebolt in the fireplace, and that revealed that some of the bricks near the middle of the chimney were visually distinct from the rest
+		
+		Going back to the master bedroom, Santana and Gronivs locate this box that came out of a slot on the wall. Before the click, the box seemingly had an indent intended for
+		a wand or some other similarly shaped item. After the click, the box held a spherical indent which, upon closing and locking the box, turned into a triangular pyramidal 
+		indent, and later turned into a rectangular one. After cycling through those, it stuck with the spherical opening.
+		
+		Gronivs, the idiot he is, suggests sacrificing the drift globe for experimenting after seeing that an object placed inside disappears. 
+		Why does he insist on not listening to reason sometimes? This is why I "yes and" his absurdities sometimes.
+		The little dumbass distracts me and snatches it. Predictably, it disappears. He also thinks I didn't notice, but he also snagged some gp from my back when he grabbed the globe
+		I don't really care about the money, it's just a couple pennies, but its the principle of the matter. He can't just go around experimenting on my artifacts like that!
+		
+		I want to return to the library, there is much to learn after all, but the morons drag me out into town for some fresh air or some other bullshit like that.
+		Turns out some of the buildings in town were on fire, so that's fun and all. Ugh they wanna go check it out. 
+		Good thing I brought one of the books from the library with me; it's reading time.
+		
+		After a bit a glance up from my book and holy shit those wolves look like they just had a playdate with death. Is their skin melting?!? God damn this town is sick; 
+		It's a similar sickness to when Santana got hit my the shadow back in the first night at the mansion, and also with Rem's arm before we cut it off
+		All my fault It's all my fault It's all my fault It's all my fault It's all my fault It's all my fault It's all my fault It's all my fault It's all my fault All my fault
+		Taking pity on the wolves, it didn't take long for us to dispatch them. Well, by the time I took notice Groniv had done most of the work, but either way, it didn't take long
+		
+		I'm starting to think that even with me accelerating my knowledge, it's not going to be fast enough. I should have contacted her as soon as I thought it might be needed.
+		I had Gronivs grab me some of the wolf's more... corrupted parts to send to her to show her the urgency. Fuck i hope she can make it in time.
+		
+		What's happening to me? I accidentally snapped at Santana; I feel bad but there's something in me telling me not to hold guilt, I'm just stressed, it's not my fault
+		Anyhows, I got a few more interesting tidbits about them, so maybe it truned out for the better:
+		- they were in two cults, not one 
+		- parents left Santana at age 10 "parents said the house was too small"
+		
+		Townfolk arrived to survey the damage to the buildings. I notice corpses being transported to some graveyard. At this point, I'm too wary of necromancy, and so bodies make
+		me think of zombies. Just in case, I'm gonna mark one of their skulls; this way i can at least tell if we wind up fighting these corpses later. 
+		Of the 9 corpses here, I just mark one, on the skull behind the ear, with the Rune of Dagaz. Just in case...
+		
+		We retire back to the mansion for the night. I need to send her a letter, and then learn more, just in case she doesn't come in time. I must prepare myself however possible.
+		 
+		Theadora,
+			
+			I definitely need your help on this quest. 
+			There are forces at play beyond my understanding and necromancy is at the heart of it all. 
+			
+			Do you know of the name Arbelladon? His ancient magic has once again been released on the world, 
+			and it is imperative that we determine the cause and put an end to this whole affair before a catastrophy occurs.
+			I'm doing my best to study up on the basic elements of Necromancy so I can determine the best on my end.
+			
+			I've included some elements of interest so that some research can be done by your grad students.
+			
+			I'm not sure what would be faster or more efficient between you trying to assist remotely or arriving here in Hazelgrove yourself,
+			but either way swift action is very necessary.
+			
+			Please act quick, 
+				Dr. Hugo Chazon.
+				
+		Included with the physical verison of the letter was two samples of wolf hide, one corrupted one control, along with an wolf eye for good luck.
+				
+	Day 7: *Unfinished entry*
+	
+		I wound up staying up the whole night researching. I'm going to summarize the most relevant of my findings here:
+		
+		- Older necromantic magic is akin to a disease, corrupting everything it touches
+		- Necromancy works based on twisting death itself, bringing unnatural life and strength to corpses.
+		- Necromancy used to be reserved for those with extremely high magical power as it requires forcing the natural order to upend itself based on your strength of will. 
+		- Time has led to advancements in necromancy which make it more controllable with lower levels of magic, the craft has been honed.
+		
+		Sometime during the night, I heard a faint laughter through the door; once more I feel like vomiting. Getting up, I slam the door open and demand the source to reveal itself
+		There was no response, but the house seemed substantially more damaged? than the last night. Gronivs and Santana very quickly said it was the ghost... What did they do...
+		
+		Gronivs woke from my shouting, and showed me a drawing he did from the rooftop. He's really shown himself to be a very talented artist.
+		The corrupted section of the forest was very visibly distict, wrangled branches and dried husks. It's quite frightening, but we cannot afford to procrastinate for much longer.
+		It's almost time to just go for it... Well maybe I can take a nap first...
+		
+		Once again a very vivid dream hit me and left just as fast.
+		I saw a hooded figure leaning on a quarterstaff, at a set of stairs. The figure stood up, collected himself, and then headed up the stairs.
+		
+		I woke to Gronivs excitedly speaking of a trap he set by the entrance. 
+		Supposedly someone entered the house overnight, walked to the master bedroom, took some clothes, and left. It seems Rem has paid us a last visit before he goes... somewhere
+		
+		After a bit of discussion as to our next action, Gronivs and I decided to go locate Rem to kill some time before Theadora responds
+		
+		We venture to the inn where Rem was staying, and meet with the day-shift bartender, who is not someone we've seen before. 
+		He tells us that Rem left overnight, and that maybe the night-shift bartender would know where he left. We thanked him and made a note to return later in the day.
+		
+		Anything can happen here over the next few days, so I figure we may want to warn those who may be helpful in subdoing... whatever it is we will be facing. Gronivs and I go to
+		the guards post to talk to them. The guards are... hesitant to trust my goblin companion, 
+		- goes to guard post
+			- guards don't know I teach history
+			- will arrest Rem if found
+		- got letter from Theodora
+			- She'll be in town in 3 days, if the town lasts that long
+		- planned with Gronivs and Santana; decide to go investigate the forest the next morning.
+		
+	Day 8: *Unfinished entry*
+		
+		Today's the day. Before we head into the forest, I go and pick up my chair from the craftsman; it's very confortable and will be perfect for updating this log in the field.
+		
+		I likely will not be taking the most detailed notes of our experience in the forest. Groniv leads the way. We located a rotting deer, how wonderful! It's as if the corpse
+		itself was corrupted, it being reduced to a blackened, dry, husk.
+		
+		Groniv's tracking ability is impressive. He stumbled upon some footsteps which due to the rain from the past few days must be new. 
+		
+		As we continued, the trees get more decrepit, transitioning from live to sickened, some dead, and starts smelling like musk and mildew. 
+		
+		The path, while previously being pretty straight, made a sharp left turn, and started winding. At the left turn I question if the path actually turned or if it was an illusion
+		I shouldn't have second guessed myself, but I didn't cast detect magic until we reached the trail's end. 
+		It approached a tree, went around the back, and then traveled back in the way it came.
+		
+		Conjuration on the trail head - Only way to be truly sure that the trail existed is - Illusion that has lasted the whole time we were traveling
+			- would have to dispell illusion
+			- conjuration maybe to create tracks
+			- conjuration spell is older by minutes; virtually at the same time 
+			
+	Day 9: *unfinished entry*
+		
+		I kept first watch last night. Nothing of interest really happened, but I did take advantage of it to read more of the necromancy textbooks I pulled from the library.
+		Alas, a dreamless night must be beyond reach, as I once again see a vision upon receiving rest:
+			I see the stairs from my previous dream
+			I hear a voice from behind me speaking a language I don't recognize
+		What language could they be speaking? I wasn't able to ascertain anything about the voice's identity based on their inflections or anything.
+		
+		Santana and Gronivs were smack talking me when I came down from the library
+		After a little death threat to the unruly teen, the conversation pivots to be a bit more relevant: "how the fuck do we track down Rem"
+		I jokingly mentioned potentially burning down the forest, which Gronivs was more than happy to go along with.
+		Santana made some... obvious realizations, such as us having released the old hag we keep hearing, and Rem having had ulterior motives... She's not the brightest...
+		
+		I was tired and kinda blindly going along with Gronivs planning because I zoned out and was just reading my tome.
+		He suggested climbing a tree or a house to get a better vantage point from which to use Detect Magic from. 
+		This wouldn't work, of course, since Detect Magic has a range of 30 feet, but I was tired and not paying attention so away we went.
+		We find this building on the edge of the forest. After determining that this house is a vacant space, we went up to the roof.
+		At this point I realize the futility of this plan, and upon pointing it out, Gronivs climbs off the roof and runs off, claiming to be the only sensible one in the party.
+		
+		I initially climb down the roof to chase after Gronivs, but decide against it and walk back to the front of the house to go fetch Santana.
+		As I'm walking around, however, I hear Santana scream. Hurrying upstairs, I find her in a room with a husk. The husk looks around my age, but rather than decomposing the
+		body seems dehydrated. I'm just gonna worry about this later...
+		
+		We continue down the road until we hit the forest line. From there, I cast detect magic and start following the forest line on the way back to Rem's house.
+		I eventually reached the corner of Rem's property, I see an illusory footstep. I run into Gronivs and point out the footprint. Since this is the only footprint, 
+		we presume that Rem realized his mistake, covered his track with an illusion, and from there attempted to be more sneaky. We follow his trail into the woods.
+		
+		At the tail end of my detect magic, I spot a large tree with a broken branch with a red glow (evocation) spewing out of it. Upon inspection, this seems to have been caused
+		by either a lightning or fire spell. I know Rem is familiar with lightning, but why would he hit this tree? Maybe he was attacked by a dying dryad or a pack of wolves
+		
+		My bag began humming, and upon picking it up I hear Theodora's voice. It seems she has encountered some unexpected resistance and will be delayed some time. 
+		
+		About an hour or so later, we stumble upon a wolf. While the singular wolf was not difficult to dispatch, but the resultant pack of wolves was. 
+		I killed the first one with my quarterstaff, Gronivs kills the next one with his dagger, ripping through its troat, and then I miss my next hit. 
+		The wolf rips into my side, tearing a chunk of flesh off of me. I think Santana was fighting one too, but I was busy trying not to cringe from the pain.
+		A second wolf tried to bit me, but I managed to deflect it with my quarterstaff. Gronivs managed to drag me around a tree to rescue me, 
+		and I whip up a healing elixer to heal myself. The wolf jumps back around the tree and bites me in the exact same spot. Fuckin hell man that hurts like hell.
+		I'm really trying not to burn the forest down here but for fucks sake its starting to hard to justify that handicap. 
+		Gronivs quickly killed that one, and then baited one of the wolves attacking Santana to draw its attention! What the hell man I'm right here!
+		I let out a firebolt but as I launch it my injury stings, and I miss, setting a tree ablaze. God damn it that was the one thing I didn't want to do!
+		Gronivs finished off the last wolf, and we decide to take a quick recovery break before continuing.
+		
+		Knowing that I'm going to rest, and regain spell slots, I use Guiding Hand pointing to the capital to check what direction we were traveling. 
+		It seems the path we are on is going roughly west.
+		
+		
+	Day 10:
+	
+		I wound up getting a full eight hour nap. Once again a dream hit my sleepy night. I'll once again document what I can remember here.
+		I find myself beneath the wall of a fortress, inky black stream staining the ground. To my right, a figure walks down set of stairs to the right, 
+		dropping his walking stick. Figure points at tree, lighting strikes upwards towards the sky, pulling the clouds towards that singular point. 
+		An object flies from tree to the figures hand, and he is now holding a new walking stick. He walks off into a bog.
+		
+		We continue down the trail. I think the only thing of interest we found was a river of fresh water. I filled one of my empty flasks with some water.
+		
+		Out of curiousity, Gronibs climbed a tree to see if an obvious destination is in sight. It seems that we're heading roughly towards the mountains to the west,
+		those that are said to be cursed.
+		
+		Somepoint past sunset, I tripped on a branch. For a moment, this fall sets me off kilter, and for the proceeding few minutes, I feel quite dizied.
+		
+		I took second watch tonight. Strangely, about an hour into watch, my light cantrip flickers. Looking around, I see some movement, and hear some corresponding rustling.
+		I don't see anything else in that direction but there is definitely something there. The rustling gets closer, accompanied by a snarl, so I go to wake up Gronivs. 
+		Maybe Santana could do something but I hold little faith in her abilities normally, let alone in a dark forest at night. Gronibs jumps up and immediately slinks behind a tree.
+		
+		From behind the tree where Gronibs was hiding, out comes a vaguely humanoid creature with a newfound hole in its shoulder from Gronibs. 
+		What a wonderful visitor from beyond the grave! Another two ghouls reveal themselves, staring me down. 
+		Of course, I remember quite a few things from my recent readings on the undead. I've attached some relevant notes I have on ghouls here:
+		Ghouls are immune to poison, have darkvision, can paralyze the target if clawed. 
+		I'd approximate that they'd be able to withstand more damage than I could, probably about 20 hp
+		
+		THe first one I saw claws me in the left arm. I can feel the paralysis attempting to sink in, but I resist. The other two I see surround me. 
+		I kick my left foot backwards, waking up Santana, ready a firebolt in my hand, and slap the shit out of it. The firebolt melts its face and it falls to the floor.
+		If I get hit again, I'd be on the verge of death. I'd rather that not happen, and thankfully gronibs slide past, cutting off both hands of a second ghoul in the process.
+		Santana leaped up and cleaved the third in half with their greatsword.
+		
+		Ghouls tend to travel in packs of 8, so I wasn't surprised when two more appear out of the darkness, but that means there's likely a few more lurking in the shadows.
+		After getting a nasty bite wound from the armless ghoul, Santana swiftly decapitated it. I spot another ghoul wandering into the light, 
+		and after stabbing the one in front of me with a firebolt bound to my staff.
+		
+		Eventually we vanquished the rest of these ghouls, and I took a well deserved rest (despite it having previously been my shift). Gronivs kept watch this time.
+		
+	Day 11: *unfinished entry*
+		
+		Dream:
+		- Clearing about 100ft in diameter
+		- tree on the other end of the clearing gets struck by lightning
+		- man midlife brown hair touches tree, tree heals
+		
+		Gronivs saw lightning strike in the early morning. Fuck, he should have woken me, we need to hurry.
+		
+		The trail curved once more, bringing us alongside the river. Many of the ghouls last night were drenched, leading me to believe that they were coming from this river.
+		Suddenly, the trail curved abruptly towards and accross the river. Wading through the river was a nightmare; I really didn't want to get any of my books wet.
+		
+		The trail picks up pace, and it seems that Rem found a reason to reach his destination faster. After quite a few hours of straight running along this trail, 
+		Gronivs found it relevant to mention that the lightning he saw was red! Does he just not know what natural lightning looks like?
+		
+		A bit later, we run into a second, wider river that feeds into a disgustingly dirty lake. It seems we've approached a marshland. 
+		We attempt to keep following the trail, but that gets moer and more difficult as the marsh covers most if not all of the trails. 
+		We resigned to blindly travel east (the last known direction of the trail) until we can get some glimpse of the trail again.
+		
+		Eventually, I spot some lights to my left. Gronivs goes to investigate as Santana starts muttering about fairy circles. 
+		I catch up to Gronivs, and out of the water emergers a swamp elemental? (Not sure what it is, investigate later). We hide and get the fuck out of there.
+		Santana takes a little to get the memo, but we get out as fast and as quiet as we can.
+		
+		We keep travelling east, and after literally 5 hours, I notice a hand reaching out of the reeds, grabbing at Santana's feet. I jab it and it recoils. 
+		Santana requests an explanation, but I'd rather just get out of here.
+		
+		We keep travelling well into the night, and into the morning. I'm going to mark the following events under the following day.
+		
+	Day 12:
+	
+		Around 7 am, we reach an old abandoned fortress. I recognize it with a hit of deja vu. It's the fortress from my dreams. Remembering my dream from the other night, 
+		I glance at the sky. The clouds from every direction are slowly drifting inwards towards this fortress. We haven't much time.
+		
+		I cast Guiding Hand focused on Hazelgrove to determine a direct line from there to this fortress. I use the stone and sent a 1-way message to Theodora instructing her to
+		come this way by the time you 
+		
+		I flip through all of my notes and remember as much as I can from my dreams before going to bed.
+		Greeted by a series of visions:
+		
+		I see Rem in a brightly lit room, holding a black gem, placing in on the end of an unnaturally straight stick. The stick grows and tendrils come out and embrace the gems
+		
+		You find yourself in a library. Your library at home, in fact. You squint from the light in the previous room, your eyes adjusting to the darkness. 
+		You see your wife and children. Marianne picks a book off the shelf. You see Grisha reading on a chair, Emi sitting on the floor. 
+
+		A candle falls, out of its holder, as if pushed by an unseen wind. It lands sideways on a pile of papers. It immediately goes up in flames.
+		The flames begin to lick at the base of one of the bookshelves.
+		You watch as the first book catches fire, its leather spine cracking as its pages burn.
+		The fire begins to spread, hungrily destroying the literature on the shelves.
+
+		The fire engulfs the library, spreading fast through the bookshelves, its occupants seemingly unaware.
+		The fire catches on the edge of Marianne's dress. You see her turn towards the source of the heat. She begins to scream as she burns alive, 
+		her skin beginning to darken as the flames consume her.
+		
+		... Fuck ...
+		
+		It took me almost an hour to collect myself after waking. I need to do whatever it takes to prevent that future from happening. 
+		
+		On this day, blood will be spilled, if that is what needs to be done.
+		
+		We make our way to the walls of the fortress. We need to walk around the perimeter, as the walls are too high and Santana and I would not be able to climb them.
+		
+		I'm not going to document every event that happens inside of the fortress. 
+		
+		- we fought a living carpet. After it got cut in half, it moved as two. I set one aflame and 
+		- marionette of the three party members
+			- Showed our movements from our previous combat
+		- thick leather book - titleless but with a metallic trim. 
+			- written in very tight hand writing
+			- appears to be a log of conversation
+			- last oage of the book is quarter filled. the conversation is in a language i don't understand.
+				- a bit farther down it says "Gronibs, it wants your shiny"
+			- I left a word of warning for Rem in case he has a sync'd one, and decided to keep this one with me.
+			
+		- fight animated armors
+		- walked down stairs, feel sick
+		- hear bolt of lightning outside
+		
+		Gronibs one shot Rem.
+		
+		Identify on the staff:
+		- can be weilded as a magic quarterstaff
+			- buffs attack and damage rolls made with it
+		- requires attunement
+		
+		Theodora finally got here; what took her so long? I forgot how she tends to be... She says we're probably fighting a hag... no shit! oh wait, no, 
+		she said like that a hag is a type of creature, 
+		who lives in nightmares and attacks you in your dreams.
+		
+		We start on our journey back to Hazelgrove. It'll be a days journey or so away, so we'll be resting over the night.
+		
+	Day 13:
+	
+		On our way back, we wound up at a path. Since we didn't see this on the way to the fortress, I cast Guiding Hand again, and it points to the left, down the path,
+		despite us not having changed direction.
+	
+		Theodora brings up a point about it being unlikely that a single spell is the thing affecting this town. I don't disagree, but a sufficiently powerful being would be capable
+		of it.
+		
+		We stop in the guard's post and inform them of Rem's passing.
+		After fetching Theodora from the Apothecary, I take her out to Rem's house so that I can show her the library. After fetching the Archive from Gronivs,
+		
+		Fiends: An Incomplete Index
+			Female Humanoid - black skin, red eyes. Skeletal body, clawed hands, trade soul larvae for objects of interest in the abyss
+			handwritten note: See "The Guide to Witches"
+			
+		Vanrichten's Guide to Witches
+			Dark woman, red eyes
+			Childrens Rhyme:
+				Begone, You Hag Who Lurks in Dreams
+				Who Drains Our Life through Cries and Screams
+				Gods Bless This Ward to Keep Me Whole
+				And Keep the Night Hag from My Soul
+				
+		I copy Protection from Evil and Good from Theodora's spellbook into mine
+		
+		Theodora summoned a couple different books with the 
+		Rare Artifacts: 2nd Edition
+		
+		Theodora and I spend much of the day reading and theorizing as to the powers of these Night Hags...
+		We call in
+		
+	Day 14:
+	
+		Gronibs Dagger identify:
+			"It's cloaked; It's almost as if I lack the ability to understand what went into the creation"
+			Doesn't store the full soul
+			"Found it hard to navigate"
+			Creature of light was killed to make this thing. "Something beautiful was destroyed" "Something shiny"
+			Usually created for a purpose; after purpose completed
+			Felt a darkness tug at her mind as she tried to decypher what its true person was
+			
+		We spent a few hours discussing the possibilities of where the Hags lair is. We suggested trying to find the crypt where we found the staff, since we cut it off from the house
+		
+		Eventually what happened to us on the way back to Hazelgrove came back to conversation. 
+		
+		-- zach keeps saying "brainwashed", and hinting that the Council knows --
+		
+		- dream theory
+		- maybe trading with an outside source
+			- what could be worth 
+	
+	Day 15:
+		
+		I heard a knocking on my sleep last night; it seems the hag is still trying to get into my head, but has noticed the interference
+		
+		Gronivs expressed interest in investigating the well in the center of town. I relented and cast identify on the drift globe. Doing so revealed the keyword, "Lux".
+		At mid-day, we lower Gronivs down into the well. He triggers the drift globe, and descends. He touched the water, and it was sludgy. It seems that the general populus wouldn't
+		be able to drink this water after all. Are they just getting water from the river or is there something else going on here? We tried using the bucket, but by the time it reached
+		the top, the viscosity of the fluid seems to have returned to normal. The water preserved in Gronivs flask remained thick when he came back up though. 
+		The bucket must have purifying properties.
+		
+		
+		died by Fire - 	a king
+		
+		Moonsteel - smith
+		
+		Death rate of prisoners was extrodinarily high.
+		
+		Silver cage, used as the material component for soul cage; currently contains 3 souls; Can extract life force from the souls
+		
+		Problem with the prisoners - something is killing them; has been happening for some time. 
+			- does not distinguish between severity of crime
+		
+		Cogrell (guard captain), missing for six months
+		
+		Livestock shipments have been delayed; no ships in about a week
+		
+		Moonsteel's thoughts:
+			- Last shipment of steel was last week; no other trade issues on her behalf
+			- Sources of Iron
+				- place down south
+				- Mountains rich in iron down to the southwest of the forest
+				- Rare metals from across the mountains
+					- A couple settlements in the mountains
+					- Cobalt
+			
+		The Guild would like to help; We have little information
+		
+		Gronivs spoke up to ask about trade
+		
+		Carpenter:
+			- We no longer produce nearly as much lumberjack
+			
+		I taught Gronivs the basics of focusing mana to cast a spell. The kid has such little mana in his blood the attempt was almost futile, 
+			
+			
+	Day 16:
+			
+		Guiding hand 
+		Guiding hand points east for a while; After half an hour or so the hand spins and settles on South-West.
+		
+		After reaching the guard post on the outside of town, we say our farewells to the lumberjack, and travel southwest, following the hand.
+		
+		Eventually we reach a stone mausellium. After stepping to the side to confirm that guiding hand is directed at this place, we prepare ourselves to enter.
+		It's dark inside, and gronivs takes this chance to attempt the Light cantrip once more. He kind of gets it this time, as his finger glows a faint gold sheen.
+		
+		We pass a coffin, which Theodora says is empty.
+		There's a large stairwell heading down below ground, similar to the one linked to Rem's house.
+		
+		We eventually reach a hexagonal room, with two doors leading out of it.
+		
+		
+		I cast identify on the gauntlet that used to hold Arbelladon's staff:
+			- hand is made of blackened steel, ordinary steel however.
+			- it is enchanted, designed to hold Arbelladon's staff, only to release if someone of his blood tries to take it
+			- it will reject anything else.
+			-
+			
+			
+		Corpse:
+		 - Erminon
+		 - Cause of death:
+			- strained itself to get the answer
+			- "Too Much"; "Not enough power"
+		 - Are you from Hazelgrove
+			- Yes
+		 - Who is Arbelladon to you?
+			- Friend
+		- Who are your parents
+			- Delmain, Arbelladon
+		- Did you ever fight in a battle?
+			- Can't remember, probably yes
+			
+		Guiding hand pointed south-east
+		
+		Dagger made by an archfiend to kill a great evil, using an old magic; will not elaborate on its nature. Believe it best to 
+		
+		We met Alnera, Goddess of Magic
+		
+		I traded a piece of my humanity for all of the hag's magical power.
+		
+		Scroll that was haphazardly folded and looks like it was written by a child
+		- Spell scroll that contains the spell 
+		
+		Heartstone
+		- Gem that allows you to become etherial if you know how to use it
+		- Can cure any disease
+		
+		The bag had this white mist in it; 
+		
+	Day 17:
+		
+		Leads:
+		- Lumberjack
+		- Jip
+		- Council
+		- Trading
+		
+		We go to the council building looking for historical records. I did not expect them to be as receptive to the idea, which is why I thought this wouldn't be a good plan.
+		They let me in with no issue, but their records were not labeled effectively, so it took a while to find what I needed.
+		
+		The archives seem to be labeled relative to the beginning of the archive, which at a glance is old enough to cover whatever happened that 200 years ago.
+		The oldest records here seem to be some 550 years old or so. I'm gonna date the records from my timescale.
+		
+		It took about an hour to reach the time period I'm interested in. I found an old map, which shows the forest being quite a bit smaller than it is now, and a lake I haven't 
+		seen before to the north east. The castle we killed Rem in is labeled there as Dreadridge.
+		
+		I started finding records of notable disappearances. Over a period of 2 years or so, 45 people disappeared. The town seems to have been shaken by the events. 
+		About a year later, the mayor's daughter disappeared as well, presumed kidnapped, which led to an innocent man being executed.
+		
+		(seems to be 5-6 years before the event)
+		
+		There were also trading logs and shipping documents references ships showing up late or going astray and not showing at all. This continues on for some time, with the logs
+		becoming more sparse over the next few years, until eventually they stop altogether
+		
+		About 100 years afterwards (about 75-100 years ago), there were more reported disappearanced. The daughter of the leader of the merchant's guild disappeared, and a suspect 
+		was jailed.
+		
+		I continued dating all the records until I reach modern day. While looking, I stumbled upon an agreement 
+		
+		Takeaway:
+		- Disappearances over 2 years
+		- Trade decline over 7-8 years. Ships going astray and arriving late/not at all
+		- 196 years before present day (3350 EVR)
+		
+		There's only really one shipping route from the capital to here, so how ships got lost is beyond me.
+		
+		There has been more recent improvements in the state of trade in Hazelgrove.
+		- Sometime around 3532 EVR, Trade for livestock seems to have started with various sources to the south.
+		- Around a year later, the trade for metals and other less necessary goods began with Pernrith, a mostly elven town alongside the southern river.
+		- It appears that several smaller farming towns along the river going south supply various forms of livestock
+			- Actual fresh meat is also supplied, albeit rarely, preserved by magic
+			- The source varies as it's mostly brought in at the behest of restaurants or at least seems largely initiated by them
+				
+		These trade relations seems to have been initiated in by the efforts of Agnur Whitgrip, the current head of the merchant's guild, who has been the head for some time
+		Metal trades are an exception, with the connection to Pernrith spearheaded by Tenell Moonsteel, the smith who you met in the council room
+		
+		How the town's merchants and such are paying for the goods is unclear, it's not brought up in the records
+		
+		It seems Nautical trade is still inconsistent, so that is a good lead to look into moving forwards.
+		
+		I had to request access to the older sections of the archive, but once I did I got right back to work dating everything. 
+		
+		In the end the archive went back 1736 years (So it started in 1810 EVR)
+		
+		Small minor note that I found:
+			Arbelladon was survived by:
+			- Eirminar Loraqen - Name of corpse in the crypt
+			- unspecified daughter
+			
+		Touching the butt:
+		- River 50 ft max depth
+		- Narrower near Hazelgrove
+		
+		It feels in character for the hag to lead people astray in the woods to either intentionally get them lost or to guide them away from Hazelgrove.
+		If that was indeed what we experienced while following Rem in the woods, it seems likely that that could additionally have been impacting the ability of cargo to reach town
+		
+		
+	Day 18:
+	
+		Messed around a bit on the boat (magic mouth = fun)
+		landed in <town-name>
+		went to look for a ride back
+		entered winery, had good wine, need to recommend to friends, only spent 1000gp, not a bad deal
+		tell friends to address to Fidgel Mez - really good wine
+		
+	Day 19:
+	
+		evocation with a splash of conjuration
+		
+		The currents left with the nymph
+		
+		After double checking the state of the magic 
+		
+		Once we returned to Hazelgrove, I received a letter from the King:
+			Hugo, 
+			I have sent this messenger to you in the hope that he finds you… well, let’s say alive. 
+			I fear that my sending you to Hazelgrove was a mistake, but there is little that can be done about that now.
+			There is much I cannot communicate in a letter, for fear it falls into the wrong hands. 
+			Trouble is brewing in the capital, and I fear farther afield. 	
+			When you return, come to the palace, for I greatly desire your counsel. 
+			Much of the time I thought we had has been cut short.
+			The light protect you, my dear friend. Stay safe out there.
+			M
+			
+		A message like this from Mandy means the situation must be pretty dire. I'll leave first thing in the morning.
+		
+	Day 20:
+	
+		We set out early in the morning, my focus shifted entirely to making it back to the capital for Mandy and Marianne
+		
+	
+		
+		Staff
+			- The staff has committed horrors I know it has not; feeling of revulsion to it; almost a wound in the magic binding the staff
+			- Can be used as a focus
+			- +2 to hit and +2 to damage
+			- Can make the staff do 1d6 force additional damage
+			- 10 charges per day for magic missile, ray of enfeeblement

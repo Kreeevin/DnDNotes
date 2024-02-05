@@ -173,6 +173,27 @@ Their motivations are currently unknown.
             - 15 ft cone fire damage
                 - DC 12 Dex save
         - 20 ft Flying Speed
+- AT-AT Leaf Muncher
+
+## The Ashborne
+
+A cult known by Thorne. They supposedly intend to help
+
+### NPCs
+- Galenfar
+    - AC 16 (+3)
+    - Orcish Necromancer
+    - Long Black Hair
+    - Fairly personable
+    - Obsessed with using animals and nature to improve himself physically
+    - Dead
+- Human Wizard
+    - Dead
+- Half Elf Warlock
+    - Likes to Eldritch Blast
+
+### The Monstrosities
+- According to Chuck, Cotton Sutures imply a weakness to Fire and Acid
 
 ## Other NPCs / Rumours
 
